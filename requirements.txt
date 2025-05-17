@@ -1,0 +1,6 @@
+openai>=1.0.0
+python-pptx>=0.6.21
+streamlit>=1.25.0
+pillow>=9.5.0
+requests>=2.31.0
+pyairtable>=1.4.0
